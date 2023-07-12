@@ -1,0 +1,2 @@
+# LatihanGo
+Latihan Bahasa Go
